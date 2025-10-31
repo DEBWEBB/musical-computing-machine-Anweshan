@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+pandas
+matplotlib
+plotly
+scipy
+torch
+torchvision
