@@ -1,0 +1,7 @@
+streamlit>=1.51.0
+opencv-python>=4.10.0
+mediapipe>=0.10.14
+numpy>=1.26.0
+plotly>=6.0.0
+reportlab>=4.0.0
+matplotlib>=3.9.0
